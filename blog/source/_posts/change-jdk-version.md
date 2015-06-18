@@ -1,7 +1,11 @@
-title: "Mac下修改Android Studio 所用的JDK版本"
+title: "Mac下修改Android Studio所用的JDK版本"
 date: "2015-06-16 20:17:16"
 tags:
-  - android
+  - Android Studio
+  - Mac
+  - JDK
+categories:
+  - Android
 ---
 
 > @author [ASCE1885](https://github.com/ASCE1885)

@@ -7,7 +7,7 @@ title: PaicHyperionDev
 subtitle:
 description:
 author: PaicHyperion
-language: zh-Hans
+language: zh-Hans 
 timezone:
 
 # URL
@@ -69,4 +69,19 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/PaicHyperionDev/PaicHyperionDev.github.io.git
+  repo: https://gitcafe.com/PaicHyperion/PaicHyperion.git
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 20
+
+creative_commons: by-nc-sa
+
+# Social links
+social:
+  github: https://github.com/PaicHyperionDev
+
+swiftype_key: Lscxh2nMTT2Rw9zqdfBT
+disqus_shortname: paichyperion
+duoshuo_shortname: hyperion

@@ -1,7 +1,9 @@
 title: "Android Studio新手完全指引"
 date: "2015-06-17 20:17:16"
 tags: 
-  - android
+  - Android Studio
+categories:
+  - Android
 ---
 
 ## Android Studio的下载及安装
